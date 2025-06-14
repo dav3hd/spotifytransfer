@@ -1,0 +1,17 @@
+{
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "authorization": "SAPISIDHASH xyz_xyz_u SAPISID1PHASH xyz_xyz_u SAPISID3PHASH xyz_xyz_u",
+    "content-type": "application/json",
+    "cookie": "SOCS=xyz; YSC=xyz; VISITOR_PRIVACY_METADATA=xyz; __Secure-1PSIDTS=sidts-xyz-xyz; __Secure-3PSIDTS=sidts-xyz-xyz; HSID=xyz-xyz; SSID=xyz; APISID=xyz/xyz; .....",
+    "origin": "https://music.youtube.com",
+    "sec-ch-ua": "\"Chromium\";v=\"137\", \"Not/A)Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Linux\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "same-origin",
+    "sec-fetch-site": "same-origin",
+    "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "x-goog-authuser": "0",
+    "x-origin": "https://music.youtube.com"
+}
