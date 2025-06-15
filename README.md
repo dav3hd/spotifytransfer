@@ -28,7 +28,7 @@ pip install deezer-python spotipy
 
 #### Transfer All Deezer Favorites
 ```bash
-python all_deezer_music.py
+python all_deezer_music_2_spotify.py
 ```
 - Enter your Spotify credentials and Deezer User ID in the script
 - Supports checkpoints for interruption recovery
@@ -36,7 +36,7 @@ python all_deezer_music.py
 
 #### Transfer Single Deezer Playlist
 ```bash
-python single_deezer_playlist.py
+python single_deezer_playlist_2_spotify.py
 ```
 - Enter your Spotify credentials in the script
 - Find playlist ID in Deezer URL (e.g., `deezer.com/playlist/1234567890`)
